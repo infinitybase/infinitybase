@@ -4,4 +4,5 @@ Desenvolvemos software para todas as verticais de negócio, e nossa especialidad
 
 Nosso propósito é proporcionar a melhor experiência com o desenvolvimento de software.
 
-Nossos clientes focam no seu business e nós cuidamos de tudo que envolve o Desenvolvimento de Software. Realizamos o desenvolvimento de maneira colaborativa, trabalhando de forma construtiva ao lado de nossos clientes. 
+Nossos clientes focam no seu business e nós cuidamos de tudo que envolve o Desenvolvimento de Software. Realizamos o desenvolvimento de maneira colaborativa, trabalhando de forma construtiva ao lado de nossos clientes.
+# Processo-seletivo
